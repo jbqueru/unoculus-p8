@@ -1,4 +1,4 @@
-# mono-p8
+# unoculus-p8
 An attempt at re-implementing my Quadroculus screen (Megabusters Coding So Far) in pico-8
 
 	Copyright 2020 JBQ

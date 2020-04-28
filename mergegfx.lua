@@ -28,7 +28,7 @@ function _init()
 		out |= peek(0x2000+addr) & 0x33
 		poke(addr,out)
 	end
-	-- cstore(0,0,0x2000,"monotest.p8")
+	-- cstore(0,0,0x2000,"unoculus-test.p8")
 end
 
 function _draw()
